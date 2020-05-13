@@ -13,4 +13,4 @@ Open cmd (or your operating system's equivalent). Navigate to the py-rdf directo
 
 PATH can be relative or absolute. The converted file will have the same name but with a different extension and will be placed in the same location as the original file. The original file will be retained. 
 
-Note if a file with the name intended for the converted file already exists at FILE_PATH, it will be overwritten with the new converted file. With this in mind, ensure you backup any profile.rdf files so as to not lose your saves.
+Note if a file with the name intended for the converted file already exists at PATH, it will be overwritten with the new converted file. With this in mind, ensure you backup any profile.rdf files so as to not lose your saves.
