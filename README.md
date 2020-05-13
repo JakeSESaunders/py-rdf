@@ -2,7 +2,7 @@
 ## A python rewrite of the UBFunkeysRDF utility
 ### Created by Jake Saunders
 
-The file convert_rdf.py can be used to convert befween .rdf (Radica Data Files) used in the game UB Funkeys and .xml files for easy editing.
+The file convert.py can be used to convert befween .rdf (Radica Data Files) used in the game UB Funkeys and .xml files for easy editing.
 
 The code used to translate between rdf (Radica Data Files) and xml is based off Daleth and Vincentetcarine's Java UBFunkeysRDF utility [which can be found here](https://github.com/WeNeedCoffee/UBFunkeysRDF).
 
